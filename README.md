@@ -1,0 +1,2 @@
+# Loan-Risk-Prediction-Decision-Tree-Random-Forest-XGBoost
+This repository contains machine learning models (Decision Tree, Random Forest, XGBoost) for loan risk prediction. Explore accurate and reliable algorithms for assessing loan default risk, with insights into feature importance and model comparisons. Enhance lending practices and risk management strategies using advanced predictive analytics.
